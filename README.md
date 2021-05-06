@@ -8,11 +8,6 @@
 - [主题特性](#特性)
 - [更新日志](#更新日志)
 
-## 预览
-
-[Preview](https://halo.hshan.fun) | [个人网站](https://baozi.fun)
-
-> 我的[个人网站](https://baozi.fun)由于存在自定义，会和当前主题会有不同
 
 ## 示例站点
 
