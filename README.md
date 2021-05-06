@@ -1,12 +1,3 @@
-# <div align="center" style="font-weight:800; font-size: 30px">Halo Theme Xue</div>
-
-<p align="center">
-追求个性与至简
-</p>
-
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/halo-dev/halo?label=halo&style=flat-square)
-
-![](https://cdn.jsdelivr.net/gh/xzzai/static@master/uPic/screenshot-2300.png)
 
 ## 说明
 
@@ -88,7 +79,3 @@
 
 请下载最新发布版本，也可以通过 git 仓库直接安装。
 
-详见：[下载地址](https://github.com/xzzai/halo-theme-xue/releases)
-
-## 用爱发电
-<img src="https://i.loli.net/2021/03/08/mx3uE2nl6iLohr1.png" width="200" height="200"/>
